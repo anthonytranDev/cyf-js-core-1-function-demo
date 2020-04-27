@@ -13,4 +13,4 @@ console.log(eatIceCream()) // undefined
 function drinkTea() { }
 
 console.log(drinkTea) // [Function: drinkTea]
-console.log(drinkTea()) // [Function: drinkTea]
+console.log(drinkTea()) // undefined
